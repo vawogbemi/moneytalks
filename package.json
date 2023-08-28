@@ -8,5 +8,11 @@
   },
   "devDependencies": {
     "wrangler": "^3.0.0"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.78.4",
+    "@tiplink/api": "^0.1.2",
+    "bs58": "^5.0.0",
+    "libsodium-sumo": "^0.7.11"
   }
 }
